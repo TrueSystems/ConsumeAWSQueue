@@ -1,0 +1,55 @@
+{
+  "id": "cffce7e8-b6db-47ba-8179-e87bfb79bfdc",
+  "title": "Education Quality Survey",
+  "description": "Survey for students of Erasmus+ program participant universities",
+  "version": "1",
+  "formLogo": "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",
+  "fields": {
+    "studentName": {
+      "type": "text",
+      "hint": "Student's Name",
+      "lines": "1",
+      "maxLengh": "30",
+      "preview": "1"
+    },
+    "univerity": {
+      "type": "text",
+      "hint": "Name of student's univesity",
+      "lines": "1",
+      "maxLengh": "20",
+      "preview": "2"
+    },
+    "courseName": {
+      "type": "text",
+      "hint": "Name of course",
+      "lines": "1",
+      "maxLengh": "20",
+      "preview": "3"
+    },
+    "reviewWarning": {
+      "type": "label",
+      "text": "Please make a fair review",
+      "visible": "true"
+    },
+    "courseReview": {
+      "type": "text",
+      "hint": "You impressions about the program",
+      "lines": "5",
+      "maxLengh": "500"
+    }
+  },
+  "ValidationRules": {
+    "studentName": {
+      "required": "true"
+    },
+    "university": {
+      "required": "true"
+    },
+    "courseName": {
+      "required": "true"
+    },
+    "courseReview": {
+      "required": "true"
+    }
+  }
+}
